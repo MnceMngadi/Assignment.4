@@ -18,7 +18,7 @@ public class DataStructuresTest {
     }
 
     @Test
-    public void map() {//Testing the Map data structure
+    public void map() {// Testing the Map data structure
 
         DataStructures map1 = new DataStructures("key1","Mncedisi");
         DataStructures map2 = new DataStructures("key2","Mngadi");
